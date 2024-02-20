@@ -3,12 +3,9 @@ changes.
 
 Jack Drabic
 
-<<<<<<< HEAD
 Moravian
 
 Purple
-=======
 
-Moravian
 
->>>>>>> 18fb66c4ae2649f5383d2b0be41f4889c1b0ae16
+
